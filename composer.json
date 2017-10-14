@@ -1,0 +1,22 @@
+{
+	"name": "avadim/test",
+	"type": "library",
+	"description": "Test package",
+	"version": "1.0.0",
+	"authors": [{
+		"name": "Vadim",
+		"homepage": "https://github.com/aVadim483/",
+		"role": "Developer"
+	}],
+	"keywords": [
+		"test",
+		"demo"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/aVadim483/test/",
+	"autoload": {
+		"psr-4": {
+			"avadim\\test\\": "src"
+		}
+	}
+}
